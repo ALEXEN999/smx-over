@@ -7,12 +7,13 @@ body {
 /*-----------*/
 #menu-fixed {
 padding: 0.5%;
+background-color: red;
 }
 
  /* Section 2 */
 /*-----------*/
 #intro {
-
+background-color: lightpink;
 }
 
 #menu-scroll {
@@ -21,6 +22,7 @@ padding: 0.5%;
   margin-right: 2%;
   margin-bottom: 1.5%;
   padding: 1%;
+  background-color: blue;
 }
  #image-over {
   margin-bottom: 3%;
@@ -50,6 +52,8 @@ padding: 1%;
 /*-----------*/
 
 #featured-news {
+  background-color: lightpink;
+
 
 }
 
@@ -84,6 +88,10 @@ padding: 1%;
 
  /* Section 4 */
 /*-----------*/
+#fight-future{
+  background-color: lightpink;
+
+}
 
 #fight-title {
   text-align: center;
@@ -112,7 +120,10 @@ padding: 1%;
 
  /* Section 5 */
 /*-----------*/
+
 #heroe-selector {
+  background-color: lightpink;
+
 
 }
 
@@ -177,7 +188,7 @@ padding: 1%;
 }
 
 #begin-watch {
-
+  background-color: lightgreen;
 }
 #begin-image {
   float: left;
@@ -222,4 +233,7 @@ padding: 1%;
   margin-bottom: 1%;
 }
 
-#stay-conected {}
+#stay-conected {
+  background-color: lightyellow;
+  height: 150px;
+}
