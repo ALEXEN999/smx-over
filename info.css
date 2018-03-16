@@ -39,10 +39,11 @@ body {
 .tu_heroe {
   height: 800px;
   background-image: url('https://i2.wp.com/guiik.com/wp-content/uploads/2018/01/razer-overwatch-header-mobile.jpg?fit=1920%2C800&ssl=1');
-  background-size: 107%;
+  background-size: 111%;
   border-bottom: 5px solid hsla(0, 0%, 100%, .5);
   padding-top: 2%;
   background-position: top;
+  overflow: hidden;
 }
 
 .elige_tu_heroe {
